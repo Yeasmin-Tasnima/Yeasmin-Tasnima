@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yeasmin-Tasnima
+- 👋 Hi, I’m Tasnima Yeasmin.
 - 👀 I’m interested in Data Science, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning in the Artificial Intelligence field.
 - 💞️ I’m looking to collaborate on Data Science field.
